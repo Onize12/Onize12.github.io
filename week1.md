@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Week 2
+title: Week 3
 by: Victoria Mohammed
 ---
 
-second week was very productuve and interesting. We worked on various data related to our project. I learned how to register and use Giovanni, I learnt more of python and how to dictate complex coding errors. I and my teammates built a cpnnection which made it possible for us to undertand ourselves and work together. I really gained alot this week. 
+As we keep going the week becomes better. Week three was a very educative and practical one. We flew a helium balloon and a drone to help us determine the amount of PM2.5 in the air. And then we also hard a field trip to John Hopkins APL. It was all a good experience overall.
 [Back](./)
