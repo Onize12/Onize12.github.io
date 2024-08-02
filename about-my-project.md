@@ -1,15 +1,14 @@
 ## About My Project
 
-mBot Neo
+The Satellite Retrieval of Aerosols Using Machine Learning
 
-Problem: There is a lack of reasearch focusing on exploring ways to build educational software that integrates physical robots and physiological sensors. 
+Problem: Aerosol affect us as humans and our society, a particular type of aerosol with 2.5 micrometers(particulate matter 2.5) has the most impact in our environment. That is why we have decide to focus on that 
 
 Approach: During this project, I will assist a team in designing a system that accomplishes the following:
 
-  - Capture physiological data such as EEG and EMG from the human body.
-  - Process raw sensor data and classify events such as gestures (e.g., arm movements) and emotional states (e.g., attention levels)
-  - Map output from physiological sensors to a physical robot. 
+  - Capture PM2.5 data from Aerosol Optical Depth from satellite observations.
+  - collect and process data
+  - create machine learning model
 
-Expected Outcome: The project is expected to result in a conference poster presentation at the end of the DREU program. The poster will focus on the system's technical architecture.
-
+Expected Outcome: To be able predict future unseen pm2.5 data using machine learning
 
